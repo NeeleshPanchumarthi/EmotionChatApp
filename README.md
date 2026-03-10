@@ -30,26 +30,17 @@ User message → emotion detection → AI reply generation → response returned
 
 
 🧠 Tech Stack
+
 Mobile
-
-Flutter
-
-Dart
-
+ Flutter
+ Dart
 Backend
-
-Flask
-
-Python
-
-Machine Learning
-
-PyTorch
-
-Transformers
-
-DistilRoBERTa (Emotion Classification Model)
-
+  Flask
+  Python
+  PyTorch
+  Transformers
+ML Model
+  DistilRoBERTa (Emotion Classification Model)
 AI Response Generation
+  Google Gemini API
 
-Google Gemini API
