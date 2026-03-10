@@ -65,4 +65,5 @@ The model can detect emotions such as:
 * Neutral
 
 
-Developed by **Neelesh Panchumarthi**
+
+
